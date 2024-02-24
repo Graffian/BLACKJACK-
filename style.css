@@ -1,0 +1,44 @@
+body {
+    font-size: 15pt;
+    background-color:darkred;
+}
+h1{
+  color:goldenrod;
+  text-align:center;
+}
+p{
+  color:white;
+  text-align:center;
+}
+button{
+  color:darkgreen;
+  background-color:goldenrod;
+  margin-right:0;
+  margin-left:35%;
+  padding-left:10%;
+  padding-right:10%;
+  font-weight: bolder;
+  border-bottom-left-radius: 50px;
+  border-bottom-right-radius:50px;
+}
+#message-el{
+  font-style:italic;
+}
+#startgame-btn{
+  position:relative;
+}
+#newcard-btn{
+  position:absolute;
+  top:30%;
+  right:30%;
+  margin-left:204.988px;
+  margin-right:1.50235px;
+  margin-top:9%;
+  left:2%;
+}
+#player-el{
+  margin-top:20%;
+  margin-bottom:0;
+  margin-right:0;
+  margin-left:5%;
+}
